@@ -1,0 +1,215 @@
+[ {
+    "type": "item_group",
+    "id": "mil_hw",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "explosive_micromissile", "prob": 4 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "NC_SOLDIER_shirt",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "combat blouse", "prob": 20 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "NC_SOLDIER_vest",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "ultralight_carrier", "prob": 10 },
+      { "item": "tactical kevlar vest", "prob": 10 },
+      { "item": "kevlar_heavy_harness", "prob": 10 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "NC_SOLDIER_coat",
+    "subtype": "distribution",
+    "entries": [ { "item": "lightjacket_army", "prob": 40 } ]
+  },
+{
+    "type": "item_group",
+    "id": "npc_coat",
+    "items": [
+      [ "lightjacket_army", 8 ]
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "npc_hat",
+    "items": [
+      [ "helmet_flak", 20 ]
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "npc_vest",
+    "items": [
+      [ "kevlar_heavy_harness", 5 ],
+      [ "tactical kevlar vest", 12 ],
+	  [ "cheap_ultralight_carrier", 20],
+	  [ "ultralight_carrier", 8],
+      [ "low-grade kevlar", 15 ]
+    ]
+  },
+{
+    "type": "item_group",
+    "id": "everyday_gear",
+    
+    "items": [
+      [ "low-grade kevlar", 3 ]
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "swat_gear",
+    "subtype": "distribution",
+    "items": [
+      [ "tactical_jumpsuit", 4 ],
+      [ "tactical kevlar vest", 22 ],
+      [ "kevlar_heavy_harness", 20 ],
+      [ "cheap_ultralight_carrier", 5 ],
+      [ "ultralight_carrier", 3 ],
+      [ "premium_ultralight_carrier", 1 ]
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "methlab",
+    "items": 
+	[
+      [ "low-grade kevlar", 8 ],
+      [ "tactical kevlar vest", 4 ],
+      [ "helmet_flak", 4 ]
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "road",
+    "items": [
+      [ "low-grade kevlar", 5 ],
+      [ "helmet_flak", 2 ]
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "roof_holdout",
+    "items": [
+      { "item": "helmet_flak", "prob": 5 },
+      [ "lightjacket_army", 22 ],
+      { "item": "cheap_ultralight_carrier", "prob": 5 },
+      { "item": "low-grade kevlar", "prob": 5 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "drugdealer",
+    "items": [
+      [ "helmet_flak", 1 ],
+      [ "cheap_ultralight_carrier", 5 ],
+      [ "tactical kevlar vest", 3 ],
+      [ "low-grade kevlar", 12 ],
+      [ "kevlar_heavy_harness", 1 ]
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "prison_armor",
+    "items": [
+      [ "chestguard_hard", 25 ],
+      [ "helmet_flak", 10 ],
+      [ "low-grade kevlar", 15 ],
+      [ "kevlar_heavy_harness", 10 ],
+      [ "tactical kevlar vest", 20 ]
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "cop_armory",
+    "subtype": "distribution",
+    "items": [
+      [ "tactical_jumpsuit", 2 ],
+      [ "tactical kevlar vest", 20 ],
+      [ "kevlar_heavy_harness", 10 ],
+      [ "cheap_ultralight_carrier", 5 ],
+      [ "ultralight_carrier", 3 ],
+      [ "premium_ultralight_carrier", 1 ]
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "cop_evidence",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "low-grade kevlar", "prob": 12 },
+      { "item": "helmet_flak", "prob": 5 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "pawn",
+    "items": [
+      [ "cheap_ultralight_carrier", 10 ],
+      [ "helmet_flak", 3 ],
+      [ "tactical_jumpsuit", 1 ],
+      [ "ultralight_carrier", 1 ],
+      [ "kevlar_heavy_harness", 3 ],
+      [ "tactical kevlar vest", 5 ],
+      [ "combat blouse", 1 ]
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "military",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "ultralight_carrier", "prob": 2 },
+      { "item": "combat blouse", "prob": 10 },
+      { "item": "lightjacket_army", "prob": 60 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "army_personal_locker",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "ultralight_carrier", "prob": 3 },
+      { "item": "combat blouse", "prob": 15 },
+      { "item": "lightjacket_army", "prob": 70 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "helicopter",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "premium_ultralight_carrier", "prob": 3 },
+      { "item": "ultralight_carrier", "prob": 5 },
+      { "item": "tactical_jumpsuit", "prob": 5 },
+      { "item": "combat blouse", "prob": 25 },
+      { "item": "lightjacket_army", "prob": 35 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "behindcounter",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "low-grade kevlar", "prob": 5 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "mil_surplus",
+    "items": [
+      [ "helmet_flak", 15 ],
+      [ "tactical kevlar vest", 8 ],
+      [ "low-grade kevlar", 12 ],
+      [ "lightjacket_army", 20 ],
+      [ "kevlar_heavy_harness", 2 ]
+    ]
+  }
+]
