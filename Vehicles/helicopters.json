@@ -703,7 +703,7 @@
       { "x": -1, "y": -1, "part": "door" },
       { "x": 1, "y": 1, "part": "xlhalfboard_ne" },
       { "x": 1, "y": -1, "part": "xlhalfboard_nw" },
-      { "x": -2, "y": 0, "part": "engine_v12" },
+      { "x": -2, "y": 0, "part": "engine_v10" },
       { "x": -2, "y": 0, "part": "alternator_car" },
       { "x": -2, "y": -1, "part": "tank", "fuel": "gasoline" },
       { "x": -2, "y": 1, "part": "tank", "fuel": "gasoline" },
