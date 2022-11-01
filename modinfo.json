@@ -6,7 +6,7 @@
     "authors": [ "Thog/Caninmyham" ],
     "description": "Adds a bunch of assorted stuff, ranging from a bunch of vehicles to some additional tactical gear and rocket weaponry. See the 'additions list' for detailed info.",
     "category": "misc_additions",
-    "dependencies": [ "dda", "bn" ],
+    "dependencies": [ "bn" ],
     "obsolete": false
   }
 ]
