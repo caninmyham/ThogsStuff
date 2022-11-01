@@ -1,4 +1,6 @@
 # Cataclysm-BN-Thogs-Stuff-Mod
+NOTE- YOULL NEED THE NEWEST VERSION OF BN (as of 10/31/2022 or newer)!!! This update makes it so that BN dependency is a seperate entity from "DDA" dependency, and thus my mod "depends" on BN. Otherwise, you'll need to modify the modinfo file and remove the dependency. 
+
 Mod for C-BN which adds a variety of new vehicles, some new vanilla-balanced tactical items, and a variety of starting professions to spice up your early/mid game.
 Link to (near) full list of additions and changes: https://drive.google.com/file/d/16JAasyUjKZZVJ-4A5cQXRntmNCyS-yYC/view?usp=sharing
 
