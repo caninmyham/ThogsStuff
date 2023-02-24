@@ -843,7 +843,7 @@
       { "x": -1, "y": 2, "parts": [ "xlframe_horizontal", "wheel_mount_light", "wheel_motorbike_or_rear", "spring_plate" ] }
     ],
     "items": [
-      { "x": -1, "y": 0, "chance": 45, "//repeat": 2, "item": [ "helmet_motor" ] }
+      { "x": -1, "y": 0, "chance": 45, "//repeat": 2, "items": [ "helmet_motor" ] }
     ]
   },
 {
@@ -890,10 +890,10 @@
       { "x": -1, "y": 2, "parts": [ "xlframe_horizontal", "wheel_mount_light", "wheel_motorbike_or_rear", "spring_plate" ] }
     ],
     "items": [
-      { "x": -1, "y": 0, "chance": 45, "//repeat": 2, "item": [ "helmet_motor" ] }
+      { "x": -1, "y": 0, "chance": 45, "//repeat": 2, "items": [ "helmet_motor" ] }
     ]
   },
- {
+  {
     "id": "car_tinytrike",
     "type": "vehicle",
     "name": "'Trekker' three-wheeled economy towncar",
@@ -959,7 +959,7 @@
       { "x": 0, "y": 1, "chance": 5, "items": [ "lighter" ] }
     ]
   },
- {
+  {
     "id": "car_tinytriketrunk",
     "type": "vehicle",
     "name": "'Trekker' three-wheeled economy personal towncar",
@@ -1024,7 +1024,7 @@
       { "x": 0, "y": 1, "chance": 5, "items": [ "lighter" ] }
     ]
   },
- {
+  {
     "id": "car_cube",
     "type": "vehicle",
     "name": "'Cube' supercompact Car",
@@ -1095,7 +1095,7 @@
       { "x": 0, "y": 1, "chance": 5, "items": [ "lighter" ] }
     ]
   },
- {
+  {
     "id": "car_cubeS",
     "type": "vehicle",
     "name": "'Cube-S' supercompact Solar Car",
@@ -1168,7 +1168,7 @@
       { "x": 0, "y": 1, "chance": 5, "items": [ "lighter" ] }
     ]
   },
- {
+  {
     "id": "car_cubeXL",
     "type": "vehicle",
     "name": "'Cube-XL' extended supercompact Car",
@@ -1243,7 +1243,7 @@
       { "x": 0, "y": 1, "chance": 5, "items": [ "lighter" ] }
     ]
   },
- {
+  {
     "id": "car_cubeX",
     "type": "vehicle",
     "name": "'Cube-X' luxury supercompact Car",
@@ -1316,7 +1316,7 @@
       { "x": 0, "y": 1, "chance": 5, "items": [ "lighter" ] }
     ]
   },
- {
+  {
     "id": "car_cubeSX",
     "type": "vehicle",
     "name": "'Cube-SX' luxury solar supercompact Car",
@@ -1526,7 +1526,7 @@
       }
     ],
     "items": [
-      { "x": 0, "y": 0, "chance": 15, "item": [ "sunglasses" ] },
+      { "x": 0, "y": 0, "chance": 15, "items": [ "sunglasses" ] },
       { "x": -2, "y": 0, "chance": 5, "item_groups": [ "fuel_diesel" ] }
     ]
   },
@@ -1952,16 +1952,16 @@
       { "x": -3, "y": 2, "part": "spring_plate" }
     ],
     "items": [
-      { "x": -2, "y": 0, "chance": 45, "item": [ "explosive_hm_hv_rocket" ] },
-      { "x": -2, "y": 0, "chance": 45, "item": [ "explosive_hm_hv_rocket" ] },
-      { "x": -2, "y": 0, "chance": 45, "item": [ "explosive_hm_hv_rocket" ] },
-      { "x": -2, "y": 0, "chance": 45, "item": [ "explosive_hm_hv_rocket" ] },
-      { "x": -2, "y": 0, "chance": 45, "item": [ "explosive_hm_hv_rocket" ] },
-      { "x": -3, "y": 0, "chance": 45, "item": [ "explosive_hm_hv_rocket" ] },
-      { "x": -3, "y": 0, "chance": 45, "item": [ "explosive_hm_hv_rocket" ] },
-      { "x": -3, "y": 0, "chance": 45, "item": [ "explosive_hm_hv_rocket" ] },
-      { "x": -3, "y": 0, "chance": 45, "item": [ "explosive_hm_hv_rocket" ] },
-      { "x": -3, "y": 0, "chance": 45, "item": [ "explosive_hm_hv_rocket" ] }
+      { "x": -2, "y": 0, "chance": 45, "items": [ "explosive_hm_hv_rocket" ] },
+      { "x": -2, "y": 0, "chance": 45, "items": [ "explosive_hm_hv_rocket" ] },
+      { "x": -2, "y": 0, "chance": 45, "items": [ "explosive_hm_hv_rocket" ] },
+      { "x": -2, "y": 0, "chance": 45, "items": [ "explosive_hm_hv_rocket" ] },
+      { "x": -2, "y": 0, "chance": 45, "items": [ "explosive_hm_hv_rocket" ] },
+      { "x": -3, "y": 0, "chance": 45, "items": [ "explosive_hm_hv_rocket" ] },
+      { "x": -3, "y": 0, "chance": 45, "items": [ "explosive_hm_hv_rocket" ] },
+      { "x": -3, "y": 0, "chance": 45, "items": [ "explosive_hm_hv_rocket" ] },
+      { "x": -3, "y": 0, "chance": 45, "items": [ "explosive_hm_hv_rocket" ] },
+      { "x": -3, "y": 0, "chance": 45, "items": [ "explosive_hm_hv_rocket" ] }
     ]
   },
   {
