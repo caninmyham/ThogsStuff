@@ -27,7 +27,7 @@
   {
     "id": "tac_fullhelmet",
     "repairs_like": "xlkevlar",
-    "type": "ARMOR",
+    "type": "TOOL_ARMOR",
     "name": { "str": "tactical full helmet" },
     "description": "An all-encompassing black helmet that covers your entire face and neck, providing excellent protection from all sorts of damage with a built-in gas mask air filter.",
     "weight": "1154 g",
