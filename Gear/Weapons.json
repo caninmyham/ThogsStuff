@@ -175,11 +175,10 @@
     "skill_used": "fabrication",
     "difficulty": 6,
     "time": "5 h 00 m",
-    "ranged_damage": { "damage_type": "bullet", "amount": -10 },
     "book_learn": [ [ "manual_rifle", 4 ] ],
     "using": [ [ "welding_standard", 2 ] ],
     "qualities": [ { "id": "HAMMER", "level": 3 }, { "id": "SAW_M", "level": 2 } ],
-"components": [ [ [ "sheet_metal", 4 ] ], [["pipe", 14]], [["scrap", 10]], [["spring", 3]], [["hinge", 1]] ]
+    "components": [ [ [ "sheet_metal", 4 ] ], [["pipe", 14]], [["scrap", 10]], [["spring", 3]], [["hinge", 1]] ]
   },
   {
     "id": "Ballistic_RotaryRodGun",
@@ -397,7 +396,7 @@
     "book_learn": [ [ "manual_launcher", 5 ] ],
     "using": [ [ "welding_standard", 5 ] ],
     "qualities": [ { "id": "HAMMER", "level": 3 }, { "id": "SAW_M", "level": 2 } ],
-"components": [ [ [ "MakeshiftRocketRifle", 1 ] ], [["sheet_metal", 1]], [["spring", 1]] ]
+    "components": [ [ [ "MakeshiftRocketRifle", 1 ] ], [["sheet_metal", 1]], [["spring", 1]] ]
   },
 {
     "id": "MakeshiftRocketHandcannon",
