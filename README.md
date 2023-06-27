@@ -1,11 +1,5 @@
 # Cataclysm-BN-Thogs-Stuff-Mod
-NOTE- YOULL NEED THE NEWEST VERSION OF BN (as of 10/31/2022 or newer)!!! This update makes it so that BN dependency is a seperate entity from "DDA" dependency, and thus my mod "depends" on BN. Otherwise, you'll need to modify the modinfo file and remove the dependency. 
-
-Mod for C-BN which adds a variety of new vehicles, some new vanilla-balanced tactical items, and a variety of starting professions to spice up your early/mid game.
-Link to (near) full list of additions and changes: https://drive.google.com/file/d/16JAasyUjKZZVJ-4A5cQXRntmNCyS-yYC/view?usp=sharing
-
-The NEWEST UPDATE- ADDS A TON of Civilian cars to add variety to dynamic spawns of vehicles overall. Spawn rates should be fairly common for some models, less so for more luxury/solar variants. From crew-cab offroading premium five-seater pickup trucks with heaters to dune buggies and compact economy "Cube" cars, there's a bunch of vehicles to check out and scrap for parts.
-![pic4](https://i.imgur.com/XKZbr4G.png)
-![pic1](https://i.imgur.com/0li0xqH.png)
-![pic2](https://i.imgur.com/DUBBmOc.png)
-![pic3](https://i.imgur.com/QL4tBsk.png)
+NOTICE NOTICE NOTICE!!!!!!!!!!!!!!!!!!
+This mod is outdated as balls. Please use the newer Thog's Vehicles and Thog's Things packs in it's place.
+https://github.com/caninmyham/Thogs-Vehicles
+https://github.com/caninmyham/Thogs-Things
